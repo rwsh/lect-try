@@ -1,6 +1,8 @@
 numpy
-matplotlib
-pandas
 scipy
+pandas
+matplotlib
+sympy
 yfinance
 jupyterlab
+notebook
